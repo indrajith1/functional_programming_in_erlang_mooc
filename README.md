@@ -1,2 +1,3 @@
-# functional_programming_in_erlang_mooc
+# Functional Programming In Erlang -- MOOC
 Exercises in the MOOC
+
